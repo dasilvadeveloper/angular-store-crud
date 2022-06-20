@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple Watch S6",
+            "price": 480
+        },
+        {
+            "id": 2,
+            "name": "JBL Charge 5",
+            "price": 159.90
+        },
+        {
+            "id": 3,
+            "name": "Apple MacBook Pro 14",
+            "price": 2249.00
+        },
+        {
+            "id": 4,
+            "name": "Apple AirPods",
+            "price": 189
+        },
+        {
+            "id": 5,
+            "name": "Apple MagSafe",
+            "price": 38.90
+        }
+    ]
+}
